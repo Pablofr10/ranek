@@ -20,7 +20,7 @@
       "preco": "4999",
       "vendido": "false",
       "descricao": "Esse é um novo notebook",
-      "fotos": []
+      "fotos": null
     },
     {
       "id": "tablet",
@@ -29,7 +29,7 @@
       "preco": "899",
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
-      "fotos": []
+      "fotos": null
     },
     {
       "id": "monitor",
@@ -38,7 +38,7 @@
       "preco": "759",
       "vendido": "false",
       "descricao": "Esse é um novo monitor",
-      "fotos": []
+      "fotos": null
     }
   ]
 }
