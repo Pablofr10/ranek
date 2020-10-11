@@ -1,0 +1,44 @@
+{
+  "usuario": [
+    {
+      "id": "pablorf.araujo@gmail.com",
+      "email": "pablorf.araujo@gamil.com",
+      "nome": "Pablo Araújo",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    }
+  ]
+}

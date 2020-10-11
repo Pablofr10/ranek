@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <input type="text" placeholder="Pesquisar Produto" />
-  </div>
+  <div></div>
 </template>
 
 <script>
