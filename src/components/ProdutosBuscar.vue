@@ -1,6 +1,12 @@
 <template>
   <form>
-    <input type="text" name="busca" id="busca" v-model="busca" />
+    <input
+      type="text"
+      name="busca"
+      id="busca"
+      v-model="busca"
+      placeholder="Buscar..."
+    />
     <input
       type="submit"
       id="lupa"
@@ -34,17 +40,12 @@ form {
 }
 #busca {
   width: 100%;
-  box-shadow: 0 4px 8px rgba(30, 60, 90, 0.1);
   padding: 20px;
   border: none;
-  border-radius: 4px;
-  transition: all 0.3s;
 }
 #busca:focus,
 #busca:hover {
-  outline: none;
   transform: scale(1.1);
-  box-shadow: 0 6px 12px rgba(30, 60, 90, 0.2);
 }
 
 #lupa {
@@ -57,5 +58,6 @@ form {
   position: absolute;
   top: 0;
   right: 0;
+  box-shadow: none;
 }
 </style>
