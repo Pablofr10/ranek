@@ -2,7 +2,9 @@
   <div id="app">
     <TheHeader />
     <main id="main">
-      <router-view />
+      <transition mode="out-in">
+        <router-view />
+      </transition>
     </main>
     <TheFooter />
   </div>
@@ -61,11 +63,13 @@ img {
   background: #87f;
   color: #fff;
   text-align: center;
+  border: none;
   font-size: 1rem;
   box-shadow: 0 4px 8px rgba(30, 60, 90, 0.2);
   transition: all 0.3s;
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   cursor: pointer;
+  border-radius: 4px;
 }
 
 .btn:hover {
@@ -80,6 +84,9 @@ img {
 }
 #main {
   flex: 1;
+}
+label {
+  margin-bottom: 5px;
 }
 input,
 textarea {

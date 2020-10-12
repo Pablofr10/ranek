@@ -10,6 +10,17 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "joao@gmail.com",
+      "email": "joao@gamil.com",
+      "nome": "Pablo Araújo",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "12345678",
+      "numero": "25",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro"
     }
   ],
   "produto": [
@@ -241,7 +252,7 @@
     {
       "id": "tablet",
       "nome": "Tablet",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "899",
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
@@ -250,7 +261,7 @@
     {
       "id": "monitor",
       "nome": "Monitor",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "759",
       "vendido": "false",
       "descricao": "Esse é um novo monitor",
@@ -259,7 +270,7 @@
     {
       "id": "notebook",
       "nome": "Notebook",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "4999",
       "vendido": "false",
       "descricao": "Esse é um novo notebook",
@@ -268,7 +279,7 @@
     {
       "id": "tablet",
       "nome": "Tablet",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "899",
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
@@ -277,7 +288,7 @@
     {
       "id": "monitor",
       "nome": "Monitor",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "759",
       "vendido": "false",
       "descricao": "Esse é um novo monitor",
@@ -286,7 +297,7 @@
     {
       "id": "notebook",
       "nome": "Notebook",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "4999",
       "vendido": "false",
       "descricao": "Esse é um novo notebook",
@@ -295,7 +306,7 @@
     {
       "id": "tablet",
       "nome": "Tablet",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "899",
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
@@ -304,7 +315,7 @@
     {
       "id": "monitor",
       "nome": "Monitor",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "759",
       "vendido": "false",
       "descricao": "Esse é um novo monitor",
@@ -313,7 +324,7 @@
     {
       "id": "notebook",
       "nome": "Notebook",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "4999",
       "vendido": "false",
       "descricao": "Esse é um novo notebook",
@@ -322,7 +333,7 @@
     {
       "id": "tablet",
       "nome": "Tablet",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "899",
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
@@ -331,7 +342,7 @@
     {
       "id": "monitor",
       "nome": "Monitor",
-      "usuario_id": "pablorf.araujo@gamil.com",
+      "usuario_id": "joao@gamil.com",
       "preco": "759",
       "vendido": "false",
       "descricao": "Esse é um novo monitor",
