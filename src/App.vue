@@ -63,11 +63,13 @@ img {
   background: #87f;
   color: #fff;
   text-align: center;
+  border: none;
   font-size: 1rem;
   box-shadow: 0 4px 8px rgba(30, 60, 90, 0.2);
   transition: all 0.3s;
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   cursor: pointer;
+  border-radius: 4px;
 }
 
 .btn:hover {
