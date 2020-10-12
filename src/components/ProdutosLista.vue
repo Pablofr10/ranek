@@ -1,28 +1,33 @@
 <template>
   <section class="produtos-container">
-    <div v-if="produtos && produtos.length" class="produtos">
-      <div class="produto" v-for="(produto, index) in produtos" :key="index">
-        <router-link to="/">
-          <img
-            v-if="produto.fotos"
-            :src="produto.fotos[0].src"
-            :alt="produto.fotos[0].alt"
-          />
-          <p class="preco">{{ produto.preco }}</p>
-          <h2 class="titulo">{{ produto.nome }}</h2>
-          <p>{{ produto.descricao }}</p>
-        </router-link>
+    <transition mode="out-in">
+      <div v-if="produtos && produtos.length" class="produtos" key="produto">
+        <div class="produto" v-for="(produto, index) in produtos" :key="index">
+          <router-link :to="{ name: 'produto', params: { id: produto.id } }">
+            <img
+              v-if="produto.fotos"
+              :src="produto.fotos[0].src"
+              :alt="produto.fotos[0].alt"
+            />
+            <p class="preco">{{ produto.preco | numeroPreco }}</p>
+            <h2 class="titulo">{{ produto.nome }}</h2>
+            <p>{{ produto.descricao }}</p>
+          </router-link>
+        </div>
+        <ProdutosPaginar
+          :produtosTotal="produtosTotal"
+          :produtosPorPagina="produtosPorPagina"
+        />
       </div>
-    </div>
-    <div v-else-if="produtos && produtos.length === 0">
-      <p class="sem-resultado">
-        Busca sem resultados, tente buscar novos termos
-      </p>
-    </div>
-    <ProdutosPaginar
-      :produtosTotal="produtosTotal"
-      :produtosPorPagina="produtosPorPagina"
-    />
+      <div v-else-if="produtos && produtos.length === 0" key="vazio">
+        <p class="sem-resultado">
+          Busca sem resultados, tente buscar novos termos
+        </p>
+      </div>
+      <div v-else key="nulo">
+        <PaginaCarregando />
+      </div>
+    </transition>
   </section>
 </template>
 
@@ -35,7 +40,7 @@ export default {
   data() {
     return {
       produtos: [],
-      produtosPorPagina: 3,
+      produtosPorPagina: 9,
       produtosTotal: 0,
     };
   },
@@ -51,10 +56,13 @@ export default {
   },
   methods: {
     getProdutos() {
-      api.get(this.url).then((res) => {
-        this.produtosTotal = Number(res.headers["x-total-count"]);
-        this.produtos = res.data;
-      });
+      this.produtos = null;
+      setTimeout(() => {
+        api.get(this.url).then((res) => {
+          this.produtosTotal = Number(res.headers["x-total-count"]);
+          this.produtos = res.data;
+        });
+      }, 1500);
     },
   },
   watch: {
