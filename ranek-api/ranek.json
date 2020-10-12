@@ -39,6 +39,303 @@
       "vendido": "false",
       "descricao": "Esse é um novo monitor",
       "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "monitor",
+      "nome": "Monitor",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "759",
+      "vendido": "false",
+      "descricao": "Esse é um novo monitor",
+      "fotos": null
     }
   ]
 }
