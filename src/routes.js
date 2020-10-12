@@ -13,4 +13,7 @@ export default new Router({
       component: Home,
     },
   ],
+  scrollBehavior() {
+    return window.screenTop({ top: 0, behavior: 'smooth' });
+  },
 });
