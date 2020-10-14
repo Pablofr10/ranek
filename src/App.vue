@@ -50,6 +50,7 @@ a {
   color: #345;
   list-style: none;
   text-decoration: none;
+  transition: all 0.3s;
 }
 
 img {

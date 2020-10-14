@@ -21,6 +21,54 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "pablorf.8@gmail.com",
+      "nome": "Pablo Rafael Oliveira de Araújo",
+      "email": "pablorf.8@gmail.com",
+      "senha": "254895",
+      "cep": "72450120",
+      "rua": "Quadra 12",
+      "numero": "22",
+      "bairro": "Setor Leste (Gama)",
+      "cidade": "Brasília",
+      "estado": "DF"
+    },
+    {
+      "id": "pablorf2.araujo@gamil.com",
+      "nome": "Pablo Araújo",
+      "email": "pablorf2.araujo@gamil.com",
+      "senha": "123",
+      "cep": "12345678",
+      "rua": "Rua Ali Perto",
+      "numero": "25",
+      "bairro": "Setor Leste (Gama)",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ"
+    },
+    {
+      "id": "pablorf.araujoo@gmail.com",
+      "nome": "Pablo Rafael Oliveira de Araújo",
+      "email": "pablorf.araujoo@gmail.com",
+      "senha": "",
+      "cep": "72450120",
+      "rua": "Quadra 12",
+      "numero": "",
+      "bairro": "Setor Leste (Gama)",
+      "cidade": "Brasília",
+      "estado": "DF"
+    },
+    {
+      "id": "pabloorf.araujo@gmail.com",
+      "nome": "Pablo Rafael Oliveira de Araújo",
+      "email": "pabloorf.araujo@gmail.com",
+      "senha": "1234",
+      "cep": "72450120",
+      "rua": "Quadra 12",
+      "numero": "65",
+      "bairro": "Setor Leste (Gama)",
+      "cidade": "Brasília",
+      "estado": "DF"
     }
   ],
   "produto": [
