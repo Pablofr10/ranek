@@ -73,37 +73,22 @@
   ],
   "produto": [
     {
-      "id": "monitor",
-      "nome": "Monitor",
-      "usuario_id": "joao@gamil.com",
-      "preco": "759",
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "pablorf.araujo@gamil.com",
+      "preco": "4999",
       "vendido": "false",
-      "descricao": "Esse é um novo monitor",
+      "descricao": "Esse é um novo notebook",
       "fotos": []
     },
     {
+      "id": "tablet",
+      "nome": "Tablet",
       "usuario_id": "pablorf.araujo@gmail.com",
-      "nome": "Monitor",
-      "preco": "3000",
-      "descricao": "Esse é um monitor.",
-      "fotos": [],
-      "id": "imZSSBg"
-    },
-    {
-      "usuario_id": "pablorf.araujo@gmail.com",
-      "nome": "Notebook",
-      "preco": "2500",
-      "descricao": "Esse é um notebook",
-      "fotos": [],
-      "id": "tFw9IWN"
-    },
-    {
-      "usuario_id": "pablorf.araujo@gmail.com",
-      "nome": "Relógio",
-      "preco": "200",
-      "descricao": "Esse é um relógio",
-      "fotos": [],
-      "id": "VaE_6Dy"
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet",
+      "fotos": []
     }
   ]
 }
