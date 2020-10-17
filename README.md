@@ -1,24 +1,27 @@
-# ranek
+# Projeto ranek
 
-## Project setup
+## Instalaçao
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o projeto
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Projeto de loja virtual
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Tecnologias Utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [VueJS] - Framework para construi a SPA!
+- [VSCode] - Editor de código
+- [VueX] - Gerenciamento de estado.
+- [Vue Router] - Roteamento da aplicação
+- [Axios] - Requisição HTTP.
+- [JSON server] - Para construi a API fake.
+
+![image info](./src/assets/1.png);
+![image info](./src/assets/2.png);
