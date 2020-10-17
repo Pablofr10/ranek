@@ -1,4 +1,72 @@
 {
+  "transacao": [
+    {
+      "comprador_id": "pablorf.araujo@gmail.com",
+      "vendedor_id": "pablorf.araujo@gmail.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "pablorf.araujo@gmail.com",
+        "preco": "899",
+        "vendido": "false",
+        "descricao": "Esse é um novo tablet",
+        "fotos": []
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua Ali Perto",
+        "numero": "25",
+        "bairro": "TAGUATINGA NORTE",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "lucassss@gmail.com",
+      "vendedor_id": "pablorf.araujo@gamil.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "pablorf.araujo@gamil.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook",
+        "fotos": []
+      },
+      "endereco": {
+        "cep": "72450160",
+        "rua": "Quadra 16",
+        "numero": "9999",
+        "bairro": "Setor Leste (Gama)",
+        "cidade": "Brasília",
+        "estado": "DF"
+      },
+      "id": 2
+    },
+    {
+      "comprador_id": "lucassss@gmail.com",
+      "vendedor_id": "pablorf.araujo@gmail.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "pablorf.araujo@gmail.com",
+        "preco": "899",
+        "vendido": "false",
+        "descricao": "Esse é um novo tablet",
+        "fotos": []
+      },
+      "endereco": {
+        "cep": "72450160",
+        "rua": "Quadra 16",
+        "numero": "9999",
+        "bairro": "Setor Leste (Gama)",
+        "cidade": "Brasília",
+        "estado": "DF"
+      },
+      "id": 3
+    }
+  ],
   "usuario": [
     {
       "id": "pablorf.araujo@gmail.com",
@@ -69,6 +137,18 @@
       "bairro": "Setor Leste (Gama)",
       "cidade": "Brasília",
       "estado": "DF"
+    },
+    {
+      "id": "lucassss@gmail.com",
+      "nome": "Lucas",
+      "email": "lucassss@gmail.com",
+      "senha": "01431910",
+      "cep": "72450160",
+      "rua": "Quadra 16",
+      "numero": "9999",
+      "bairro": "Setor Leste (Gama)",
+      "cidade": "Brasília",
+      "estado": "DF"
     }
   ],
   "produto": [
@@ -89,6 +169,15 @@
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
       "fotos": []
+    },
+    {
+      "usuario_id": "pablorf.araujo@gmail.com",
+      "nome": "Notebook",
+      "preco": "300",
+      "descricao": "Este é um notebook",
+      "fotos": [],
+      "vendido": "false",
+      "id": "p6gyNPG"
     }
   ]
 }
