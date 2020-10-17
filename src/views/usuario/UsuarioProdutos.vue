@@ -64,4 +64,27 @@ export default {
 h2 {
   margin-top: 20px;
 }
+
+.list-enter,
+.list-leave-to {
+  opacity: 0;
+  transform: translate3d(20px, 0, 0);
+}
+
+.list-enter-active,
+.list-leave-active {
+  transition: all 0.3s;
+}
+.deletar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: url("../../assets/remove.svg") no-repeat center center;
+  width: 24px;
+  height: 24px;
+  text-indent: -140px;
+  overflow: hidden;
+  cursor: pointer;
+  border: none;
+}
 </style>

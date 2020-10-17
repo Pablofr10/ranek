@@ -12,7 +12,7 @@ export const api = {
     return axiosInstance.post(endpoint, body);
   },
   delete(endpoint) {
-    return axiosInstance.post(endpoint);
+    return axiosInstance.delete(endpoint);
   },
 };
 

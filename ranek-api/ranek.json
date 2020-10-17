@@ -89,15 +89,6 @@
       "vendido": "false",
       "descricao": "Esse é um novo tablet",
       "fotos": []
-    },
-    {
-      "id": "monitor",
-      "nome": "Monitor",
-      "usuario_id": "pablorf.araujo@gmail.com",
-      "preco": "759",
-      "vendido": "false",
-      "descricao": "Esse é um novo monitor",
-      "fotos": []
     }
   ]
 }
