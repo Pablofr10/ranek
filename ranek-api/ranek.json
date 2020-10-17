@@ -96,6 +96,14 @@
       "descricao": "Esse é um notebook",
       "fotos": [],
       "id": "tFw9IWN"
+    },
+    {
+      "usuario_id": "pablorf.araujo@gmail.com",
+      "nome": "Relógio",
+      "preco": "200",
+      "descricao": "Esse é um relógio",
+      "fotos": [],
+      "id": "VaE_6Dy"
     }
   ]
 }
