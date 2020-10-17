@@ -6,8 +6,8 @@
     >
       <img
         :v-if="produto.fotos"
-        :src="produto.fotos[0]"
-        :alt="produto.fotos[0]"
+        :src="produto.fotos[0].src"
+        :alt="produto.fotos[0].alt"
       />
       Ver produto</router-link
     >
