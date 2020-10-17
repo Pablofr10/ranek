@@ -11,6 +11,9 @@ export const api = {
   post(endpoint, body) {
     return axiosInstance.post(endpoint, body);
   },
+  delete(endpoint) {
+    return axiosInstance.post(endpoint);
+  },
 };
 
 export function getCep(cep) {
