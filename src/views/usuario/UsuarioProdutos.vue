@@ -4,7 +4,7 @@
     <ProdutoAdicionar />
     <h2>Seus produtos</h2>
     <transition-group v-if="usuario_produtos" name="list" tag="ul">
-      <li v-for="(produto, index) in usuario_produtos" :key="index">
+      <li v-for="produto in usuario_produtos" :key="produto.id">
         <ProdutoItem :produto="produto">
           <p>{{ produto.descricao }}</p>
         </ProdutoItem>
