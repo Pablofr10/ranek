@@ -69,15 +69,7 @@
   ],
   "usuario": [
     {
-      "id": "pablorf.araujo@gmail.com",
-      "email": "pablorf.araujo@gmail.com",
-      "nome": "Pablo Araújo",
-      "senha": "123",
-      "rua": "Rua Ali Perto",
-      "cep": "12345678",
-      "numero": "25",
-      "estado": "RJ",
-      "cidade": "Rio de Janeiro"
+      "id": "pablorf.araujo@gmail.com"
     },
     {
       "id": "joao@gmail.com",
